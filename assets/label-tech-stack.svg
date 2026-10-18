@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 68" width="260" height="68" role="img" aria-label="TECH STACK">
+<defs><filter id="ds" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000" flood-opacity=".55"/></filter>
+<filter id="ds2" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity=".6"/></filter>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="brush" width="8" height="3" patternUnits="userSpaceOnUse"><rect width="8" height="1" fill="#fff" opacity=".055"/><rect y="1.6" width="5" height="1" fill="#000" opacity=".06"/></pattern>
+<pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".3"/></pattern></defs>
+<g transform="rotate(-.6 130.0 32.0)">
+<rect x="10" y="10" width="240" height="44" rx="5" fill="#17191d" filter="url(#ds2)"/>
+<rect x="12" y="12" width="236" height="40" rx="3.5" fill="none" stroke="#2f343b" stroke-width="1.2"/>
+<rect x="14" y="14" width="232" height="5" fill="#fff" fill-opacity=".05"/>
+<text x="131.5" y="41.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="5" fill="#000" opacity=".9" textLength="180" lengthAdjust="spacing">TECH STACK</text>
+<text x="130.0" y="40.0" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="5" fill="#f3f4f6" textLength="180" lengthAdjust="spacing">TECH STACK</text></g></svg>
